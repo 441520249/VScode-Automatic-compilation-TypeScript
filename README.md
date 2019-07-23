@@ -1,4 +1,4 @@
-# TypeScript 安装及开发环境配置
+# TypeScript 安装及开发环境配置!
 
 ## 1.TypeScript 是 Node 的超集，使用需要先安装 Nodejs
 
